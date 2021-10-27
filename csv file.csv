@@ -17,6 +17,6 @@ def read_file(url):
 # READ FILE FROM GITHUB REPO 
 # CHANGE THE URL TO YOUR DATA LOCATION!
 
-url = "https://github.com/DhruvM321/sleepy-eye-tracker/blob/main/csv file.csv"
+url = "https://github.com/DhruvM321/sleepy-eye-tracker/blob/main/csv%20file.csv"
 
 eye_tracker = read_file(url)
